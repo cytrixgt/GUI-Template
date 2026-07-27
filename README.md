@@ -14,10 +14,10 @@
 
 <div align="left">
   
-# How to use
+# :accessibility: How to use
 Now, inside of the script ive added as many notes as possible to explain how everything works so review that for further instructions. I also included a 'README' in the zip file so you can understand how to add it to your roblox studio or get the contents of the code into an executor or something.
 
-# FAQ
+# ❓FAQ
 1. Is it safe?
   - Yes, what type of question is this?
 2. Will this be updated
@@ -30,6 +30,6 @@ Now, inside of the script ive added as many notes as possible to explain how eve
   - Whilist some of the functions do look ai, no, this was entirely made by me and the only thing that was close to being premade was this gui template
     was modified from an existing gui I own called "Vellum".
 
-# Credits
+# 📋Credits
 + Scripting: cytrix
 (yeah made the whole thing so uhh yeah just me i guess)
