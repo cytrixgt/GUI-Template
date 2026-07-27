@@ -14,7 +14,7 @@
 
 <div align="left">
   
-# :accessibility: How to use
+# 🎨How to use
 Now, inside of the script ive added as many notes as possible to explain how everything works so review that for further instructions. I also included a 'README' in the zip file so you can understand how to add it to your roblox studio or get the contents of the code into an executor or something.
 
 # ❓FAQ
