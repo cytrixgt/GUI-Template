@@ -14,5 +14,19 @@
 
 <div align="left">
   
-# H
-"A simple gui template so you can start making Roblox GUI's."
+# How to use
+Now, inside of the script ive added as many notes as possible to explain how everything works so review that for further instructions. I also included a 'README' in the zip file so you can understand how to add it to your roblox studio or get the contents of the code into an executor or something.
+
+# FAQ
+1. Is it safe?
+  - Yes, what type of question is this?
+2. Will this be updated
+  - Yes, I do plan on updating this and I will try to make it easy for users to adapt to updates.
+3. Is this free?
+  - Yes, besides this gui isnt like the best gui out there so I didnt plan on making people pay for it.
+4. Is this beginner-friendly?
+  - Yes and no? Its kind of confusing and hard to understand but I cant say this is FULLY for beginners.
+
+# Credits
++ Scripting: cytrix
+(yeah made the whole thing so uhh yeah just me i guess)
