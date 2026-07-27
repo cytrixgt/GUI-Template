@@ -26,6 +26,9 @@ Now, inside of the script ive added as many notes as possible to explain how eve
   - Yes, besides this gui isnt like the best gui out there so I didnt plan on making people pay for it.
 4. Is this beginner-friendly?
   - Yes and no? Its kind of confusing and hard to understand but I cant say this is FULLY for beginners.
+5. Is this AI?
+  - Whilist some of the functions do look ai, no, this was entirely made by me and the only thing that was close to being premade was this gui template
+    was modified from an existing gui I own called "Vellum".
 
 # Credits
 + Scripting: cytrix
